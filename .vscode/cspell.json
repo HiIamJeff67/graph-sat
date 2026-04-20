@@ -1,0 +1,8 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "dictionaries": ["py", "ipynb"],
+  "enabled": false,
+  "ignoreRegExpList": [],
+  "words": ["torchmsat", "graphsat"]
+}
